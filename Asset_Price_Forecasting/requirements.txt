@@ -1,1 +1,6 @@
-
+gradio==5.33.0
+pandas==1.5.3
+pandas-stubs==2.2.3.241126
+numpy==1.26.4
+matplotlib==3.8.4
+statsmodels==0.14.2
