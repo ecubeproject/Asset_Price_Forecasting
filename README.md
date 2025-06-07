@@ -47,14 +47,7 @@ All data was manually downloaded due to API limitations and resampled to **weekl
 ---
 
 ## 📁 Repository Structure
-Asset_Price_Forecasting/
-│
-├── app.py # Main Gradio app
-├── df_clean.csv # Cleaned weekly price data
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
-
+<pre> ``` Asset_Price_Forecasting/ ├── app.py # Main Gradio app ├── df_clean.csv # Cleaned weekly price data ├── requirements.txt # Python dependencies └── README.md # This file ``` </pre>
 ---
 
 ## 🧩 Future Enhancements
