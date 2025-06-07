@@ -1,7 +1,7 @@
 # 📈 Asset Price Forecasting using VAR
 
 A web-based forecasting application built with **Gradio** and powered by a **Vector Autoregression (VAR)** model.  
-It predicts future prices of **Bitcoin**, **Gold**, and the **S&P 500** based on historical weekly data.
+It forecasts future prices of **Bitcoin**, **Gold**, and the **S&P 500** based on historical weekly data.
 
 ---
 
